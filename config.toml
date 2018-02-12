@@ -6,7 +6,7 @@
 baseurl = "~shiliu/"
 
 # Title of your site
-title = "Shizhu Liu"
+title = "Shizhu Kathy Liu"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -60,7 +60,9 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "shizhuliu@nyu.edu"
-  address = "NYU Taidon School of Engineering"
+  mail = "shizhuliu@nyu.edu"
+  address = "6 MetroTech Center RH305G, Brooklyn, NY 11201"
+  time = "6 MetroTech Center RH305G, Brooklyn, NY 11201"
   # phone = "202 538 0477"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
