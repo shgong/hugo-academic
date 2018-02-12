@@ -17,7 +17,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD Candidate in Mathematics"
+  course = "Ph.D. Candidate in Mathematics"
   institution = "New York University"
   year = 2018
 
@@ -35,4 +35,4 @@ weight = 5
 
 # Biography
 
-Shizhu (Kathy) Liu is a PhD student in Mathematics at New York University. Her research interests
+Shizhu (Kathy) Liu is a Ph.D. student in Mathematics at New York University. She is advised by Dr. Erwin Lutwak, Dr. Gaoyong Zhang and Dr. Deane Yang in the field of Convex Geometry and Information Theory. She has been happily teaching undergraduate math courses at NYU for more than three years. After serving as a Data Science Consultant in a reinsurance company in recent summers, Shizhu realizes the power and fun of working with data, and starts to apply analytics and data visualization to solve problems in business settings and higher education industry. When not working, Shizhu can be found watching Broadway shows in theater district, practicing golf in Chelsea Piers and swimming in NYU Palladium gym. 
