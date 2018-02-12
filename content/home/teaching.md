@@ -16,8 +16,8 @@ weight = 20
 +++
 
 
-#### View my teaching evaluation at [Rate My Professor](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1966958)
-
+#### View my online teaching evaluation at [Rate My Professor](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1966958)
+Or contact me for my NYU internal course evaluation reports
 
 
 <br>
