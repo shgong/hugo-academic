@@ -13,4 +13,4 @@ weight = 65
 +++
 
 
-> feel free to email for the latest version
+> Feel free to email me for the latest version
