@@ -15,6 +15,13 @@ weight = 20
 
 +++
 
+
+#### View my profile at [Rate My Professor](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1966958)
+
+
+
+<br>
+
 Recitation Leader, NYU
 
 - Partial Differential Equations: Spring 2018
