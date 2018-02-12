@@ -22,4 +22,8 @@ count = 5
 
 +++
 
-You will not regret taking Liu's class and you will do well if you show an honest effort. She does cover a lot in class. However, if you actively participate, pay attention and take notes like you would for any other class... you will do well. She is very understanding, helpful, and always available either by email or her office hours/tutoring.
+- **Data Science Consultant**, Maiden Reinsurance North America, Jun - Aug 2016 and Jun - Aug 2017
+
+- **Acting Director of Undergraduate Studies**, Department of Mathematics Tandon School of Engineering NYU, Aug 2016 - Aug 2017
+
+- **Math Workshop Coordinator**, Department of Mathematics Tandon School of Engineering NYU, Sep 2013 - Dec 2015
