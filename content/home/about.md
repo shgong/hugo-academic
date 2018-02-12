@@ -17,7 +17,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Mathematics"
+  course = "PhD Candidate in Mathematics"
   institution = "New York University"
   year = 2018
 
