@@ -31,5 +31,7 @@ Adjunct Instructor, NYU
 - MA-UY 2414 Basic Practice of Statistics for Social Science, Spring 2015
 - MA-UY 914 Precalculus for Engineers, Fall 2014
 
-Focused Recitation/Math Workshop Instructor, 2014 - present, NYU
+
+Focused Recitation/Math Workshop Instructor, NYU, 2014 - present
+
 - Subjects: Calculus I, Calculus II, Data Analysis, Linear Algebra & Differential Equation, Introduction to Probability
