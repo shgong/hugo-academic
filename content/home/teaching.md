@@ -16,14 +16,20 @@ weight = 20
 +++
 
 
-#### View my profile at [Rate My Professor](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1966958)
+#### View my teaching evaluation at [Rate My Professor](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1966958)
 
 
 
 <br>
 
-Recitation Leader, NYU
+Adjunct Instructor, NYU
 
-- Partial Differential Equations: Spring 2018
-- Math for Economics I/II: Fall 2015, Spring/Fall 2016, Fall 2017
-- Calculus I: Fall 2014, Spring 2015
+- MA-UY 2054 Applied Business Data Analysis I, Spring 2018
+- MA-UY 914 Precalculus for Engineers, Fall 2017
+- MA-UY 2414 Basic Practice of Statistics for Social Science, Spring 2016
+- MA-UY 914 Precalculus for Engineers, Fall 2015
+- MA-UY 2414 Basic Practice of Statistics for Social Science, Spring 2015
+- MA-UY 914 Precalculus for Engineers, Fall 2014
+
+Focused Recitation/Math Workshop Instructor, 2014 - present, NYU
+- Subjects: Calculus I, Calculus II, Data Analysis, Linear Algebra & Differential Equation, Introduction to Probability
