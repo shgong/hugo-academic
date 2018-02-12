@@ -30,9 +30,9 @@ weight = 5
   course = "B.A. in Economics"
   institution = "Zhejiang University"
   year = 2011
- 
+
 +++
 
 # Biography
 
-Shizhu (Kathy) Liu is a PhD student in Mathematics at New York University. Her research interests 
+Shizhu (Kathy) Liu is a PhD student in Mathematics at New York University. Her research interests

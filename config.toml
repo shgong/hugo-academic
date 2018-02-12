@@ -50,28 +50,26 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Shizhu Liu"
+  role = "PhD Candidate in Mathematics"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "New York University", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
-  telegram = ""
+  email = "shizhuliu@nyu.edu"
+  address = "NYU Taidon School of Engineering"
+  # phone = "202 538 0477"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
-  keybase = ""
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
   #   discussion = { name = "Discuss", url = "https://discourse.gohugo.io" }
+
+  discussion = { name = "Wechat: shizhu" }
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -92,10 +90,10 @@ defaultContentLanguageInSubdir = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
+  map = 1
   map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
+  latitude = "40.6941787"
+  longitude = "-73.9865589"
   zoom = 15
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
@@ -217,22 +215,17 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:shizhuliu@nyu.edu"
 
   [[params.social]]
-    icon = "twitter"
+    icon = "linkedin"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "http://www.linkedin.com/in/shizhu/"
 
   [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
-
-  [[params.social]]
-    icon = "github"
+    icon = "graduation-cap"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1966958"
 
 
 # Navigation Links
@@ -248,24 +241,25 @@ defaultContentLanguageInSubdir = false
   url = "#about"
   weight = 1
 
+
 [[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
+  name = "Experience"
+  url = "#experience"
   weight = 2
-
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
-
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
 
 [[menu.main]]
   name = "Teaching"
   url = "#teaching"
+  weight = 3
+
+[[menu.main]]
+  name = "Publications"
+  url = "#publications"
+  weight = 4
+
+[[menu.main]]
+  name = "Projects"
+  url = "#projects"
   weight = 5
 
 [[menu.main]]
