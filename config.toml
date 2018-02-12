@@ -59,10 +59,10 @@ defaultContentLanguageInSubdir = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "shizhuliu@nyu.edu"
-  mail = "shizhuliu@nyu.edu"
+  email = "shizhu.liu@courant.nyu.edu"
+  discussion = { name = "shizhuliu@nyu.edu" }
   address = "6 MetroTech Center RH305G, Brooklyn, NY 11201"
-  time = "6 MetroTech Center RH305G, Brooklyn, NY 11201"
+  office_hours = "Spring 2018: Monday 4pm to 6pm or email for appointment"
   # phone = "202 538 0477"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
