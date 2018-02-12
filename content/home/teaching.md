@@ -22,7 +22,7 @@ Or contact me for my NYU internal course evaluation reports
 
 <br>
 
-Adjunct Instructor, NYU, Fall 2014 - present
+**Adjunct Instructor, NYU, Fall 2014 - present**
 
 - MA-UY 2054 Applied Business Data Analysis I, Spring 2018
 - MA-UY 914 Precalculus for Engineers, Fall 2017
@@ -32,6 +32,6 @@ Adjunct Instructor, NYU, Fall 2014 - present
 - MA-UY 914 Precalculus for Engineers, Fall 2014
 
 
-Focused Recitation/Math Workshop Instructor, NYU, Fall 2014 - present
+**Focused Recitation/Math Workshop Instructor, NYU, Fall 2014 - present**
 
 - Subjects: Calculus I, Calculus II, Data Analysis, Linear Algebra & Differential Equation, Introduction to Probability
