@@ -29,3 +29,5 @@ image = ""
 caption = ""
 
 +++
+
+Model includes covariates of students’ demographic data, standardized exam test scores, high school performance. Codes were written in R with an interactive interface App. Due to FERPA sensitive information, please email for details.
