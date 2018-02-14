@@ -1,10 +1,10 @@
 +++
 title = "A Flexible Alternative to the Tweedie GLM Pricing Model"
-date = 2017
+date = 2017-08-01
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["(With J. Henry III and S. Cohen"]
+authors = ["(With J. Henry III and S. Cohen)"]
 
 # Publication type.
 # Legend:
@@ -18,11 +18,15 @@ authors = ["(With J. Henry III and S. Cohen"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Variance (ISSN 1940-6452)"
+publication = " Submitted to *Variance (ISSN 1940-6452)*"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "A flexible pricing model is proposed as an alternative to the commonly used Tweedie GLM. The model is appropriate
+when modeling pure premium data from an underlying loss distribution with a heavy, bounded, or exponential tail, and it is
+parametrized in a way so that parameter estimates have meaningful business interpretations. Discussions on internal and external
+data, predictor variable engineering and selection, diagnostic plots, and model deployment and monitoring, are included for practicing
+pricing actuaries, modelers, and data scientists."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -39,7 +43,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Pricing Models", "Pure Premium", "GLM", "Generalized Pareto Distribution", "Tweedie Distribution"]
 
 # Links (optional).
 url_pdf = ""
