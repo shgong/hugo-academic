@@ -11,7 +11,7 @@ tags = []
 summary = "Jun 22 2016, a presentation at NYC Data Science Academy"
 
 # Optional image to display on homepage.
-image_preview = "mean-variance.jpg"
+image_preview = ""
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://liushizhu56.github.io/Modern-Portfolio-Theory/R1_Shizhu_project.html#1"
@@ -25,7 +25,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "mean-variance.jpg"
-caption = "Fig1"
+image = ""
+caption = ""
 
 +++
