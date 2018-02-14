@@ -26,6 +26,6 @@ highlight = true
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = "mean-variance.jpg"
-caption = ""
+caption = "Fig1"
 
 +++
