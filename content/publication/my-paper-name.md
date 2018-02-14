@@ -1,10 +1,10 @@
 +++
-title = "My Paper Name"
-date = 2018-02-13T20:19:18-05:00
+title = "A Flexible Alternative to the Tweedie GLM Pricing Model"
+date = 2017
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [""]
+authors = ["(With J. Henry III and S. Cohen"]
 
 # Publication type.
 # Legend:
@@ -15,10 +15,10 @@ authors = [""]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["0"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = ""
+publication = "Variance (ISSN 1940-6452)"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -70,20 +70,4 @@ caption = ""
 
 +++
 
-title = "A publication title, such as title of a paper"
 
-date = "2013-07-01"
-
-
-authors = ["First author's name", "Second author's name"]
-
-
-publication_types = ["1"]
-
-
-publication = "In *International Conference on Academic*. You may use *Markdown* for italics etc."
-publication_short = "In *ICA*"
-
-
-abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
-abstract_short = "A short version of the abstract."
