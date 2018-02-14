@@ -11,7 +11,7 @@ tags = []
 summary = "Jun 22 2016, a presentation at NYC Data Science Academy"
 
 # Optional image to display on homepage.
-image_preview = ""
+image_preview = "mean-variance.jpg"
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://liushizhu56.github.io/Modern-Portfolio-Theory/R1_Shizhu_project.html#1"
