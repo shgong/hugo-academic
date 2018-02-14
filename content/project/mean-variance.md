@@ -1,20 +1,20 @@
 +++
-title = "Mean Variance"
+title = "A Portfolio Optimization Problem -- Markowitz Mean Variance Method"
 date = 2016
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["machine-learning"]
+# tags = ["machine-learning"]
 
 # Project summary to display on homepage.
-summary = "Project summary"
+summary = "Jun 22 2016, a presentation at NYC Data Science Academy"
 
 # Optional image to display on homepage.
 image_preview = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = "www.google.com"
+external_link = "https://liushizhu56.github.io/Modern-Portfolio-Theory/R1_Shizhu_project.html#1"
 
 # Does the project detail page use math formatting?
 math = false
