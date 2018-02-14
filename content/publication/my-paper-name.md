@@ -69,3 +69,21 @@ image = ""
 caption = ""
 
 +++
+
+title = "A publication title, such as title of a paper"
+
+date = "2013-07-01"
+
+
+authors = ["First author's name", "Second author's name"]
+
+
+publication_types = ["1"]
+
+
+publication = "In *International Conference on Academic*. You may use *Markdown* for italics etc."
+publication_short = "In *ICA*"
+
+
+abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
+abstract_short = "A short version of the abstract."
