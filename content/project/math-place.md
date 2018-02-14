@@ -1,6 +1,6 @@
 +++
-title = "A Predictive Model for Freshmen math placement exam"
-date = 2017-08-01
+title = "A Predictive Model for Freshmen Math Placement Exam"
+date = 2015-08-01
 draft = false
 
 # Tags: can be used for filtering projects.
