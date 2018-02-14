@@ -1,6 +1,6 @@
 +++
-title = "Math Place"
-date = 2018-02-13T22:39:55-05:00
+title = "A Predictive Model for Freshmen math placement exam"
+date = 2017-08-01
 draft = false
 
 # Tags: can be used for filtering projects.
@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = ""
+summary = "Model includes covariates of students’ demographic data, standardized exam test scores, high school performance. Codes were written in R with an interactive interface App. Due to FERPA sensitive information, please email for details. "
 
 # Optional image to display on homepage.
 image_preview = ""
