@@ -1,11 +1,11 @@
 +++
 title = "A Portfolio Optimization Problem -- Markowitz Mean Variance Method"
-date = 2016
+date = 2016-06-22
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-# tags = ["machine-learning"]
+tags = []
 
 # Project summary to display on homepage.
 summary = "Jun 22 2016, a presentation at NYC Data Science Academy"
