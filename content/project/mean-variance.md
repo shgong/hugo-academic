@@ -1,20 +1,20 @@
 +++
 title = "Mean Variance"
-date = 2018-02-13T21:46:44-05:00
+date = 2016
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = []
+tags = ["machine-learning"]
 
 # Project summary to display on homepage.
-summary = ""
+summary = "Project summary"
 
 # Optional image to display on homepage.
 image_preview = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "www.google.com"
 
 # Does the project detail page use math formatting?
 math = false
