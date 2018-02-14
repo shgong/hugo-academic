@@ -22,7 +22,7 @@ publication = " Submitted to *Variance (ISSN 1940-6452)*"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "A flexible pricing model is proposed as an alternative to the commonly used Tweedie GLM."
+abstract = "A flexible pricing model is proposed as an alternative to the commonly used Tweedie GLM. The model is appropriate when modeling pure premium data from an underlying loss distribution with a heavy, bounded, or exponential tail, and it is parametrized in a way so that parameter estimates have meaningful business interpretations. Discussions on internal and external data, predictor variable engineering and selection, diagnostic plots, and model deployment and monitoring, are included for practicing pricing actuaries, modelers, and data scientists."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -54,7 +54,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "Journal Detail", url = "http://www.variancejournal.org/"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
