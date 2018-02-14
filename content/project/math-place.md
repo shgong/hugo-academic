@@ -11,7 +11,7 @@ tags = []
 summary = "Model includes covariates of students’ demographic data, standardized exam test scores, high school performance. Codes were written in R with an interactive interface App. Due to FERPA sensitive information, please email for details. "
 
 # Optional image to display on homepage.
-image_preview = "mean-variance.jpg"
+image_preview = ""
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
