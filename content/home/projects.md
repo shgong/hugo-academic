@@ -42,6 +42,6 @@ filter_default = 0
 
 +++
 
-:memo: :memo: <span style="color:pink">(The Project Section is under construction)</span> 
+:memo: :memo: **(The Project Section is under construction)**
 
 
