@@ -1,5 +1,5 @@
 +++
-title = "Volume"
+title = "Volume Inequalities Associated with the $L_p$ Cosine Transform of Isotropic Measures"
 date = 2018-03-08T00:03:24-05:00
 draft = false
 
@@ -15,10 +15,10 @@ authors = [""]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["0"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = ""
+publication = "(preprint)"
 publication_short = ""
 
 # Abstract and optional shortened version.
