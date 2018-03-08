@@ -1,6 +1,6 @@
 +++
-title = "Sharp_log"
-date = 2018-03-08T00:02:08-05:00
+title = "Sharp Logarithmic Gagliardo-Nirenberg Inequalities"
+date = 2018-05-02T00:02:08-05:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,10 +15,10 @@ authors = [""]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["0"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = ""
+publication = "(preprint)"
 publication_short = ""
 
 # Abstract and optional shortened version.
