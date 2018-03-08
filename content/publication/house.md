@@ -1,10 +1,10 @@
 +++
-title = "House"
-date = 2018-03-08T00:04:04-05:00
+title = "The Influence of University on House Pricing - A Theoretical Analysis of Zhejiang University"
+date = 2010-03-08T00:04:04-05:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [""]
+authors = ["(With Y. Chen)"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = [""]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["0"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = ""
+publication = "Journal of Zhejiang Ocean University (Humanities Sciences)"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "It is not hard to find most people appreciate living near a campus since it often provides better landscape, a pleasant atmosphere and more convenient life. Taking the houses near Zijingang Campus, Zhejiang University as an example, this paper sets a useful Hedonic house pricing model aiming to find out how exactly the existence of campus influences the price of houses near it. It is found that, as one of the significant residential characteristics, the existence of a college campus has remarkable influence on the price of the near-by houses, especially within 6500 meters."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -39,7 +39,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["house price","Hedonic price model","Zhejiang Univeristy"]
 
 # Links (optional).
 url_pdf = ""
