@@ -1,6 +1,6 @@
 +++
 title = "Volume Inequalities Associated with the $L_p$ Cosine Transform of Isotropic Measures"
-date = 2018-03-08T00:03:24-05:00
+date = 2018-03-02T00:03:24-05:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
