@@ -1,6 +1,6 @@
 +++
 title = "Sharp Logarithmic Gagliardo-Nirenberg Inequalities"
-date = 2018-05-02T00:02:08-05:00
+date = 2018-03-04T00:02:08-05:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
