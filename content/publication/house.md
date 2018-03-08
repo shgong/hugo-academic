@@ -1,6 +1,6 @@
 +++
 title = "The Influence of University on House Pricing - A Theoretical Analysis of Zhejiang University"
-date = 2010-03-08T00:04:04-05:00
+date = 2010-09-01T00:04:04-05:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
