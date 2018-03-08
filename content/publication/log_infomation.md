@@ -1,6 +1,6 @@
 +++
-title = "Log_infomation"
-date = 2018-03-08T00:02:53-05:00
+title = "Logarithmic Information Inequalities and Generalized Gaussian Distributions"
+date = 2018-05-01T00:02:53-05:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,10 +15,10 @@ authors = [""]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["0"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = ""
+publication = "(preprint)"
 publication_short = ""
 
 # Abstract and optional shortened version.
