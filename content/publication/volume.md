@@ -57,7 +57,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Does this page contain LaTeX math? (true/false)
-math = false
+math = true
 
 # Does this page require source code highlighting? (true/false)
 highlight = true
