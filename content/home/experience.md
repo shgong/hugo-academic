@@ -21,9 +21,10 @@ tags_exclude = []
 count = 5
 
 +++
+- **Adjunct Professor**, New York University, Spet 2014 - present
 
-- **Data Science Consultant**, Maiden Reinsurance North America, Jun - Aug 2016 and Jun - Aug 2017
+- **Data Science Consultant**, Maiden Reinsurance North America, June - Aug 2016 and June - Aug 2017
 
 - **Acting Director of Undergraduate Studies**, Department of Mathematics Tandon School of Engineering NYU, Aug 2016 - Aug 2017
 
-- **Math Workshop Coordinator**, Department of Mathematics Tandon School of Engineering NYU, Sep 2013 - Dec 2015
+- **Math Workshop Coordinator**, Department of Mathematics Tandon School of Engineering NYU, Sept 2013 - Dec 2015
