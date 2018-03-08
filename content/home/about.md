@@ -12,6 +12,7 @@ weight = 5
   interests = [
     "Convex Geometry",
     "Information Theory",
+    "Analytic Inequalities",
     "Probability"
   ]
 
