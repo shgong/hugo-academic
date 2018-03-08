@@ -1,6 +1,6 @@
 +++
 title = "Logarithmic Information Inequalities and Generalized Gaussian Distributions"
-date = 2018-03-01T00:02:53-05:00
+date = 2018-03-03T00:02:53-05:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
