@@ -1,6 +1,6 @@
 +++
 title = "Information, Analytic and Geometric Inequalities"
-date = 2018-03-8
+date = 2018-03-08
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
