@@ -1,6 +1,6 @@
 +++
-title = "Dissertation"
-date = 2018-03-08T00:01:04-05:00
+title = "Information, Analytic and Geometric Inequalities"
+date = 2018-05-20T00:01:04-05:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,10 +15,10 @@ authors = [""]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["0"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = ""
+publication = "Ph.D. Dissertation, New York University"
 publication_short = ""
 
 # Abstract and optional shortened version.
