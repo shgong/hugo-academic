@@ -1,8 +1,6 @@
 +++
-title = "Recent & Upcoming Talks"
+title = "Student"
 date = "2017-01-01T00:00:00Z"
-math = false
-highlight = false
 
 # List format.
 #   0 = Simple

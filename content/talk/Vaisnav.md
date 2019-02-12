@@ -1,9 +1,16 @@
 +++
 title = "Vaisnav Gajaraj"
 publication = "NYU Mathematics and Computer Science Class of 2021, interested in machine learning and information theory"
-date = 2018-03-02T00:03:24-05:00
+
 draft = false
 
+time_start = 2030-06-01T13:00:00
+time_end = 2030-06-01T15:00:00
+abstract = ""
+abstract_short = ""
+event = "Academic Theme Conference"
+event_url = "https://example.org"
+location = "London, United Kingdom"
 
 # Links (optional).
 url_pdf = "pdf/Gajaraj_Vaish_Resume.pdf"
