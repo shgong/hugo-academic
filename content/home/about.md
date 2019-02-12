@@ -18,7 +18,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Ph.D. Candidate in Mathematics"
+  course = "Ph.D. in Mathematics"
   institution = "New York University"
   year = 2018
 
@@ -36,6 +36,8 @@ weight = 5
 
 # Biography
 
-Shizhu (Kathy) Liu is a Ph.D. student in Mathematics at New York University. She is advised by [Dr. Erwin Lutwak](https://cims.nyu.edu/people/profiles/LUTWAK_Erwin.html), [Dr. Gaoyong Zhang](https://cims.nyu.edu/~gaoyong/) and [Dr. Deane Yang](https://cims.nyu.edu/~yangd/) in the field of Convex Geometry and Information Theory. 
+Dr. Shizhu (Kathy) Liu is a Clinical Assistant Professor of Mathematics
+at  [Courant Institute of Mathematical Sciences (NYU)](https://cims.nyu.edu/). Her Ph.D. study was advised by  [Dr. Erwin Lutwak](https://cims.nyu.edu/people/profiles/LUTWAK_Erwin.html), [Dr. Gaoyong Zhang](https://cims.nyu.edu/~gaoyong/) and [Dr. Deane Yang](https://cims.nyu.edu/~yangd/). Her research interest is in the field of Convex Geometry and Information Theory.
 
-Shizhu has been happily teaching undergraduate math courses at NYU for more than three years. After serving as a Data Science Consultant in a reinsurance company in recent summers, Shizhu realizes the power and fun of working with data, and starts to apply analytics and data visualization to solve problems in business settings and higher education industry. When not working, she can be found watching Broadway shows in theater district, practicing golf at Chelsea Piers and swimming in NYU Palladium gym. 
+
+Shizhu has been happily teaching undergraduate math courses at NYU for more than three years. After serving as a Data Science Consultant in a reinsurance company in recent summers, Shizhu realizes the power and fun of working with data, and starts to apply analytics and data visualization to solve problems in business settings and higher education industry. When not working, she can be found watching Broadway shows in theater district, practicing golf at Chelsea Piers and swimming in NYU Palladium gym.

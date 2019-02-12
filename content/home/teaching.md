@@ -22,8 +22,15 @@ Or contact me for my NYU internal course evaluation reports
 
 <br>
 
-**Adjunct Instructor, NYU, Fall 2014 - present**
+**Clinical Assistant Professor, NYU, Fall 2018 - present**
 
+- MATH-UA 140 Linear Algebra, Spring 2019
+- MATH-UA 0122 Calculus 2, Fall 2018
+- CORE-UA 0105 Elementary Statistics, Fall 2018, Spring 2019  
+
+**Adjunct Instructor, NYU, Fall 2014 - Summer 2018**
+
+- MA-UY 2224 Data Analysis, Summer 2018
 - MA-UY 2054 Applied Business Data Analysis I, Spring 2018
 - MA-UY 914 Precalculus for Engineers, Fall 2017
 - MA-UY 2414 Basic Practice of Statistics for Social Science, Spring 2016

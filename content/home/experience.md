@@ -21,7 +21,9 @@ tags_exclude = []
 count = 5
 
 +++
-- **Adjunct Professor**, New York University, Spet 2014 - present
+- **Clinical Assistant Professor of Mathematics**, New York University, Sept 2018 - present
+
+- **Adjunct Professor**, New York University, Sept 2014 - Aug 2018
 
 - **Data Science Consultant**, Maiden Reinsurance North America, June - Aug 2016 and June - Aug 2017
 

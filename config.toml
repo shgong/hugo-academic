@@ -51,17 +51,17 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Shizhu Liu"
-  role = "Ph.D. Candidate in Mathematics"
+  role = "Clinical Assistant Professor of Mathematics"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [{name="Adjunct Instructor"},{ name = "New York University", url = "https://www.nyu.edu/" } ]
+  organizations = [{name="Courant Institute of Mathematical Sciences"},{ name = "New York University", url = "https://www.nyu.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "shizhu.liu@courant.nyu.edu"
-  address = "6 MetroTech Center RH305G, Brooklyn, NY 11201"
-  office_hours = "Spring 2018 Office Hour: Monday 4pm to 6pm or email for appointment"
+  address = "  Warren Weaver Hall (WWH), Office 720, 251 Mercer St, New York NY 10012"
+  office_hours = "Spring 2019 Office Hours: Tuesday and Thursday 5pm to 6pm, or by appointment https://shizhuliu.youcanbook.me "
   # phone = "202 538 0477"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -91,10 +91,10 @@ defaultContentLanguageInSubdir = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
+  map = 1
   map_api_key = ""
-  latitude = "40.6941787"
-  longitude = "-73.9865589"
+  latitude = "40.7286607"
+  longitude = "-73.9956975"
   zoom = 15
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
