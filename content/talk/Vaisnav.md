@@ -1,6 +1,6 @@
 +++
 title = "Vaisnav Gajaraj"
-publication = "NYU Mathematics and Computer Science Class of 2021, interested in machine learning and information theory"
+publication = "NYU Mathematics and Computer Science Class of 2021, interested in machine learning and information theory. resume:"
 
 draft = false
 

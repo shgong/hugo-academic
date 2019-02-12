@@ -16,12 +16,6 @@ weight = 20
 +++
 
 
-#### View my online teaching evaluation at [Rate My Professor](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1966958)
-Or contact me for my NYU internal course evaluation reports
-
-
-<br>
-
 **Clinical Assistant Professor, NYU, Fall 2018 - present**
 
 - MATH-UA 140 Linear Algebra, Spring 2019
@@ -42,3 +36,8 @@ Or contact me for my NYU internal course evaluation reports
 **Focused Recitation/Math Workshop Instructor, NYU, Fall 2014 - present**
 
 - Subjects: Calculus I, Calculus II, Data Analysis, Linear Algebra & Differential Equation, Introduction to Probability
+
+<br>
+
+#### View my online teaching evaluation at [Rate My Professor](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1966958)
+Or contact me for my NYU internal course evaluation reports
