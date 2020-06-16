@@ -36,7 +36,7 @@ weight = 5
 
 # Biography
 
-Dr. Shizhu (Kathy) Liu is a Clinical Assistant Professor of Mathematics
+Dr. Shizhu Liu is a Clinical Assistant Professor of Mathematics
 at  [Courant Institute of Mathematical Sciences (NYU)](https://cims.nyu.edu/). Her Ph.D. study was advised by  [Dr. Erwin Lutwak](https://cims.nyu.edu/people/profiles/LUTWAK_Erwin.html), [Dr. Gaoyong Zhang](https://cims.nyu.edu/~gaoyong/) and [Dr. Deane Yang](https://cims.nyu.edu/~yangd/). Her research interest is in the field of Convex Geometry and Information Theory.
 
 

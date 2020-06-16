@@ -18,9 +18,12 @@ weight = 20
 
 **Clinical Assistant Professor, NYU, Fall 2018 - present**
 
-- MATH-UA 140 Linear Algebra, Spring 2019
-- MATH-UA 0122 Calculus 2, Fall 2018
-- CORE-UA 0105 Elementary Statistics, Fall 2018, Spring 2019  
+- MATH-UA 009 Algebra and Calculus, Fall 2019
+- MATH-UA 121 Calculus I, Spring 2020
+- MATH-UA 122 Calculus II, Fall 2018, Fall 2020
+- MATH-UA 123 Calculus III, Fall 2020
+- MATH-UA 140 Linear Algebra, Spring 2019, Fall 2019, Spring 2020
+- CORE-UA 105 Elementary Statistics, Fall 2018, Spring 2019
 
 **Adjunct Instructor, NYU, Fall 2014 - Summer 2018**
 

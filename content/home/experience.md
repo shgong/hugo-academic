@@ -23,6 +23,8 @@ count = 5
 +++
 - **Clinical Assistant Professor of Mathematics**, New York University, Sept 2018 - present
 
+- **Director of the Summer Bootcamp, M.S. in the Mathematics in Finance**, New York University, Aug 2019 - present
+
 - **Adjunct Professor**, New York University, Sept 2014 - Aug 2018
 
 - **Data Science Consultant**, Maiden Reinsurance North America, June - Aug 2016 and June - Aug 2017
